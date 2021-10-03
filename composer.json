@@ -1,5 +1,5 @@
 {
-    "name": "callmenp/lara-auth-bridge",
+    "name": "bee-b/lara-auth-bridge",
     "description": "Offers a simple API for the included custom phpBB authentication module. for phpBB3.0 and laravel5",
     "keywords": ["phpbb", "phpbb3", "bridge", "laravel", "laravel5"],
     "license": "MIT",
